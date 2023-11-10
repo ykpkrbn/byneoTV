@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "348570107821",
+    "project_id": "futbol-6ef6e",
+    "storage_bucket": "futbol-6ef6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348570107821:android:da1f84f9162103fa946b24",
+        "android_client_info": {
+          "package_name": "senizleyeterki.tv.byneo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348570107821-85bgrt4b7s7sa442o5gumeaq0tp8flh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP7icAkdcET48jX4lG4bNkPj5awxo3EhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348570107821-85bgrt4b7s7sa442o5gumeaq0tp8flh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
